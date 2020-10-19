@@ -4,6 +4,6 @@ This repository hosts a Jupyter Notebook to perform network-based simulation of 
 
 **Suitable X-ray microtomography images for input can be found [here](https://www.digitalrocksportal.org/projects/317).**
 
-**The network extraction step is performed using the [PoreSpy](http://porespy.org/) package.**
+**The network extraction step leverages the [PoreSpy](http://porespy.org/) package.**
 
-**The fluid simulation step is performed using the [OpenPNM](http://openpnm.org/) package.**
+**The fluid simulation step leverages the [OpenPNM](http://openpnm.org/) package.**
